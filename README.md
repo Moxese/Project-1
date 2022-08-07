@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Moxese
-- 👀 I’m interested in computer programming
-- 🌱 I’m currently learning python programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Moxese/Moxese is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mosese
+- 👀 I’m passionate with web development
+- 🌱 I’m currently learning html, css, javascrip and pyhton languages
+- 💞️ I’m looking to collaborate on html and css projects
+- 📫 How to reach me: @the_mosese on twitter
