@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mosese
-- 👀 I’m passionate with web development
-- 🌱 I’m currently learning html, css, javascrip and pyhton languages
+- 👀 I’m passionate with software development
+- 🌱 I’m currently learning java, c++ and pyhton languages
 - 💞️ I’m looking to collaborate on html and css projects
-- 📫 How to reach me: @the_mosese on twitter
+- 📫 How to reach me: @muger_a on twitter
